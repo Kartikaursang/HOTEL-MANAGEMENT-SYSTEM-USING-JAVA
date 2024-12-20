@@ -160,7 +160,7 @@ Form to add new rooms with details like availability and pricing.
 
 #### New Customer
 Page to register a new customer and assign a room.
-![New Customer](SCREENSHOTS/new coustomer.png)
+![New Customer](NEWCO.png)
 
 #### Customer Information
 View detailed information about all current customers.
