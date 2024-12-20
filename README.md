@@ -14,7 +14,7 @@ A comprehensive hotel management system developed in Java to streamline hotel op
 ## Technologies Used
 
 - Programming Language: Java
-- Database:  MySQL, PostgreSQL
+- Database:  MySQL.
 - IDE: Eclipse, IntelliJ IDEA
 ## Database Schema
 
