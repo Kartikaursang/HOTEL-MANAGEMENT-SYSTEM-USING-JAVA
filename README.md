@@ -119,5 +119,102 @@ This schema provides an overview of how data is structured and stored in the app
   - Reservations
   - Check-ins
   - Reports
+  - Check-outs
+  - Pickup Service
+  - Search rooms
+  - Add New Rooms
+  - Add New Employee
+  - Add Drivers
+
+## Screenshots
+
+#### Homepage
+The main landing page for the Hotel Management System.
+![Homepage](SCREENSHOTS/homepage.png)
+
+#### Dashboard
+The central hub displaying key hotel operations and analytics.
+![Dashboard](SCREENSHOTS/dashboard.png)
+
+---
+
+Below are screenshots of various features of the Hotel Management System:
+
+### 1. Admin Features
+
+#### Add Driver
+Interface to add and manage driver details for the hotel services.
+![Add Driver](SCREENSHOTS/adminadddriver.png)
+
+#### Add Employee
+Screen to register and manage hotel staff information.
+![Add Employee](SCREENSHOTS/adminaddemploye.png)
+
+#### Add Room
+Form to add new rooms with details like availability and pricing.
+![Add Room](SCREENSHOTS/adminaddroom.png)
+
+---
+
+### 2. Customer Management
+
+#### New Customer
+Page to register a new customer and assign a room.
+![New Customer](SCREENSHOTS/newcoustomer.png)
+
+#### Customer Information
+View detailed information about all current customers.
+![Customer Information](SCREENSHOTS/coustomerinfo.png)
+
+#### Checkout
+Facilitates the customer checkout process and room clearance.
+![Checkout](SCREENSHOTS/checkout.png)
+
+---
+
+### 3. Room Management
+
+#### Room Information
+Displays details about all available and occupied rooms.
+![Room Information](SCREENSHOTS/roominfo.png)
+
+#### Search Room
+Search functionality to find specific rooms based on criteria.
+![Search Room](SCREENSHOTS/searchroom.png)
+
+#### Update Room
+Allows updating details of existing rooms such as status or pricing.
+![Update Room](SCREENSHOTS/updateroom.png)
+
+---
+
+### 4. Employee and Department Management
+
+#### Employee Information
+List of all employees with their roles and contact information.
+![Employee Information](SCREENSHOTS/empinfo.png)
+
+#### Department Information
+Overview of various departments within the hotel and their budgets.
+![Department Information](SCREENSHOTS/deptinfo.png)
+
+#### Manager Information
+Displays details of managers responsible for hotel operations.
+![Manager Information](SCREENSHOTS/managerinfo.png)
+
+---
+
+### 5. Additional Features
+
+#### Pickup Service
+Manage driver and vehicle availability for customer pickup services.
+![Pickup Service](SCREENSHOTS/pickupservice.png)
+
+#### Update
+Update miscellaneous records and operational details.
+![Update](SCREENSHOTS/update.png)
+
+
+
 
 
